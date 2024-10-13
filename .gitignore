@@ -1,6 +1,6 @@
 # Ignore Unity Library folder
-Library/
-
+Library/ArtifactDB
+Library/PackageCache
 # Other common Unity folders and files to ignore
 Temp/
 Obj/
